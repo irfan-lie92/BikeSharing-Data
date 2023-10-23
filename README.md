@@ -31,3 +31,4 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 streamlit run bikesharing.py
 ```
+https://bikesharing-data-8ragyvgdtp8izjk9oja5kx.streamlit.app/
